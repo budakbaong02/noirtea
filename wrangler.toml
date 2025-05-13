@@ -5,19 +5,6 @@ minify = true
 workers_dev = true
 
 
-routes = [
-
-  { pattern = "budakbaong.my.id", custom_domain = true },
-  { pattern = "ava.game.naver.com.budakbaong.my.id", custom_domain = true },
-  { pattern = "quiz.int.vidio.com.budakbaong.my.id", custom_domain = true },
-  { pattern = "graph.instagram.com.sbudakbaong.my.id", custom_domain = true },
-  { pattern = "help.viu.com.budakbaong.my.id", custom_domain = true },
-  { pattern = "support.zoom.us.budakbaong.my.id", custom_domain = true },
-  { pattern = "cache.netflix.com.budakbaong.my.id", custom_domain = true },
-  { pattern = "graph.facebook.com.budakbaong.my.id", custom_domain = true },
-  { pattern = "dogseechew.com.budakbaong.my.id", custom_domain = true },
-]
-
 [[kv_namespaces]]
 binding = "SIREN"
 id = "9825ae32c0ba45c3b906002a26a30f71"
