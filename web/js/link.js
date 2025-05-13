@@ -13,7 +13,7 @@ const defaultProxyUrl = "https://raw.githubusercontent.com/AFRcloud/ProxyList/re
 
 const serverDomains = ["new.budakbaong.my.id"]
 let selectedServerDomain = serverDomains[0] // Default to first domain
-const defaultUUID = "80b640ff-031d-4294-8b9d-12a41d976444"
+const defaultUUID = "9825ae32c0ba45c3b906002a26a30f71"
 const itemsPerPage = 10
 let currentPage = 1
 
