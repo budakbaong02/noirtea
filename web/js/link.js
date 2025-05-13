@@ -13,7 +13,7 @@ const defaultProxyUrl = "https://raw.githubusercontent.com/AFRcloud/ProxyList/re
 
 const serverDomains = ["stbwrt.web.id"]
 let selectedServerDomain = serverDomains[0] // Default to first domain
-const defaultUUID = "bbbbbbbb-cccc-4ddd-eeee-ffffffffffff"
+const defaultUUID = "80b640ff-031d-4294-8b9d-12a41d976444"
 const itemsPerPage = 10
 let currentPage = 1
 
