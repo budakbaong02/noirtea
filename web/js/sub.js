@@ -6,8 +6,8 @@
 const CONFIG = {
   proxyListUrl: "https://raw.githubusercontent.com/AFRcloud/ProxyList/refs/heads/main/ProxyList.txt",
   apiCheckUrl: "https://afrcloud.dpdns.org/",
-  mainDomains: ["stbwrt.web.id"],
-  defaultUuid: "bbbbbbbb-cccc-4ddd-eeee-ffffffffffff",
+  mainDomains: ["new.budakbaong.my.id"],
+  defaultUuid: "9825ae32c0ba45c3b906002a26a30f71",
   maxProxies: 50,
   defaultProxyCount: 5,
   pathTemplate: "/Inconigto-Mode/{ip}-{port}",
