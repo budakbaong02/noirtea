@@ -24,10 +24,11 @@ anyhow = "1.0.86"
 reqwest = "0.12.5"
 regex = "1.11.1"
 once_cell = "1.21.3"
+worker = "0.0.13"
 
 
 [profile.release]
-opt-level = "o"
+opt-level = "s"
 lto = true
 strip = true
 codegen-units = 1
