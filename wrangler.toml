@@ -6,15 +6,15 @@ workers_dev = true
 
 routes = [
 
-  { pattern = "uk81.biz.id", custom_domain = true },
-  { pattern = "ava.game.naver.com.uk81.biz.id", custom_domain = true },
-  { pattern = "quiz.int.vidio.com.uk81.biz.id", custom_domain = true },
-  { pattern = "graph.instagram.com.uk81.biz.id", custom_domain = true },
-  { pattern = "help.viu.com.uk81.biz.id", custom_domain = true },
-  { pattern = "support.zoom.us.uk81.biz.id", custom_domain = true },
-  { pattern = "cache.netflix.com.uk81.biz.id", custom_domain = true },
-  { pattern = "graph.facebook.com.uk81.biz.id", custom_domain = true },
-  { pattern = "dogseechew.com.uk81.biz.id", custom_domain = true },
+  { pattern = "uks.uk81.biz.id", custom_domain = true },
+  { pattern = "ava.game.naver.com.uks.uk81.biz.id", custom_domain = true },
+  { pattern = "quiz.int.vidio.com.uks.uk81.biz.id", custom_domain = true },
+  { pattern = "graph.instagram.com.uks.uk81.biz.id", custom_domain = true },
+  { pattern = "help.viu.com.uks.uk81.biz.id", custom_domain = true },
+  { pattern = "support.zoom.us.uks.uk81.biz.id", custom_domain = true },
+  { pattern = "cache.netflix.com.uks.uk81.biz.id", custom_domain = true },
+  { pattern = "graph.facebook.com.uks.uk81.biz.id", custom_domain = true },
+  { pattern = "dogseechew.com.uks.uk81.biz.id", custom_domain = true },
 ]
 
 [[kv_namespaces]]
